@@ -1,0 +1,13 @@
+target/
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
+data/
+spark-checkpoints/
+warehouse/.pytest_cache/
+google-credentials.json
